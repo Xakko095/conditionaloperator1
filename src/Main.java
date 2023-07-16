@@ -85,7 +85,7 @@ public class Main {
         int two = 2;
         int three = 3;
         if (two + one <= three) {
-            System.out.println("Наибольшее число1 " + three);
+            System.out.println("Наибольшее число " + three);
         }
     }
 }
